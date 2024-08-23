@@ -1,3 +1,3 @@
 # Budget using useState
 
-A simple task to make a budget liist using useState hook
+A simple task to make a budget list using useState hook
